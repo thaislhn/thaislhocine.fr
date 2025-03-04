@@ -1,21 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Open+Sans:wght@400;700&display=swap');
+
+h1 {
+    font-family: 'Bruno Ace SC', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: rgb(0, 0, 0);
+    color: white;
+    line-height: 1.6;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body {
-    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
-    background: rgb(0, 0, 0);
-    color: white;
-    line-height: 1.6;
-}
-
-h1 {
-    font-family: 'Bruno Ace SC', -apple-system, BlinkMacSystemFont, sans-serif;
-}
-
-    
 
 .container {
     max-width: 1200px;
